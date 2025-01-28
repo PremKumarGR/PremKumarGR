@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @PremKumar Rangasamy. I am working as a software test engineer for more than 12 years.
-- 👀 I’m interested in cloud computings, Automation, Big data solutions.
-- 🌱 I’m currently learning AWS cloud services.
-- 📫 How to reach me - send mail to premeee1@gmail.com
-
+- 👋 Hi, I’m @PremKumar Rangasamy. Passionate about leveraging AI and machine learning to solve real-world business challenges and drive data-driven decision-making. Developing intelligent systems and models to transform raw data into actionable insights for businesses. Coding my way through AI and ML projects, with a focus on predictive modeling, NLP, and decision systems for real-world applications.
+- 📫 You can reach me at premeee1@gmail.com
